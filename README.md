@@ -119,4 +119,4 @@ O jogador escolhe um lado da moeda enquanto o sistema realiza um sorteio aleató
 1. Faça o clone do repositório:
 
 ```bash
-git clone https://github.com/SeuUsuario/arcadeverse-premium.git
+git clone https://github.com/SeuUsuario/jogosSite.git
