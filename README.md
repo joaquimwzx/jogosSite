@@ -113,17 +113,6 @@ O jogador escolhe um lado da moeda enquanto o sistema realiza um sorteio aleató
 2. O sistema realizará o sorteio automaticamente.
 3. O resultado será exibido imediatamente.
 
----
-
-# 🖼️ Demonstração Visual
-
-*(Substitua pelas imagens ou GIFs do seu projeto funcionando)*
-
-![Demonstração do Projeto](link-da-sua-imagem-aqui.jpg)
-
-> **Dica:** Utilize ferramentas como *ScreenToGif* ou *LiceCap* para gravar GIFs do funcionamento do projeto.
-
----
 
 # ⚙️ Como executar o projeto localmente
 
